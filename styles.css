@@ -54,3 +54,24 @@ header nav ul li {
 body {
     background-color: rgba(100, 16, 255)
 }
+#aboutme {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 600px;
+}
+.abtme {
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgb(0, 174, 255);
+}
+
+.abtme img {
+    width: 250px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.abtme h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
